@@ -1,4 +1,5 @@
-﻿using Contact.API.Infrastructure;
+﻿
+using Contact.API.Infrastructure;
 using Contact.API.Models;
 using System;
 using System.Collections.Generic;
@@ -19,5 +20,6 @@ namespace Contact.API.Services
                 LastName = "Ugurlu"
             };
         }
+
     }
 }

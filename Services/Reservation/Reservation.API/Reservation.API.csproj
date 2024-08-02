@@ -11,9 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Reservation.API.Infrastructure\Reservation.API.Infrastructure.csproj" />
-    <ProjectReference Include="..\..\..\Reservation.API.Services\Reservation.API.Services.csproj" />
+    <ProjectReference Include="..\Reservation.API.Infrastructure\Reservation.API.Infrastructure.csproj" />
     <ProjectReference Include="..\Reservation.API.Models\Reservation.API.Models.csproj" />
+    <ProjectReference Include="..\Reservation.API.Services\Reservation.API.Services.csproj" />
   </ItemGroup>
 
 </Project>

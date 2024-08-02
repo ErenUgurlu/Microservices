@@ -11,9 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Contact.API.Services\Contact.API.Services.csproj" />
     <ProjectReference Include="..\Contact.API.Infrastructure\Contact.API.Infrastructure.csproj" />
     <ProjectReference Include="..\Contact.API.Models\Contact.API.Models.csproj" />
+    <ProjectReference Include="..\Contact.API.Services\Contact.API.Services.csproj" />
   </ItemGroup>
 
 </Project>
